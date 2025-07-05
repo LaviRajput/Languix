@@ -1,5 +1,6 @@
 "use client";
 import {useTranslations} from 'next-intl';
+import Link from 'next/link';
 
 
 // Page content is now wrapped by layout, header, and footer. Remove local language switcher and nav.
@@ -21,8 +22,8 @@ export default function HomePage() {
         <li className="bg-[#A259F7] rounded-lg p-4 text-center font-semibold text-white shadow">{t('feature3')}</li>
       </ul>
       <div className="flex justify-center gap-6">
-        <a href="/about" className="px-6 py-2 rounded-full bg-[#0A174E] text-[#00FFD0] font-semibold shadow hover:scale-105 hover:bg-[#A259F7] hover:text-white transition-transform border border-[#00FFD0]">{t('about')}</a>
-        <a href="/contact" className="px-6 py-2 rounded-full bg-[#0A174E] text-[#00FFD0] font-semibold shadow hover:scale-105 hover:bg-[#A259F7] hover:text-white transition-transform border border-[#00FFD0]">{t('contact')}</a>
+        <Link href="/about" className="px-6 py-2 rounded-full bg-[#0A174E] text-[#00FFD0] font-semibold shadow hover:scale-105 hover:bg-[#A259F7] hover:text-white transition-transform border border-[#00FFD0]">{t('about')}</Link>
+        <Link href="/contact" className="px-6 py-2 rounded-full bg-[#0A174E] text-[#00FFD0] font-semibold shadow hover:scale-105 hover:bg-[#A259F7] hover:text-white transition-transform border border-[#00FFD0]">{t('contact')}</Link>
       </div>
     </section>
   );
