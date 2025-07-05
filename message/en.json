@@ -1,0 +1,38 @@
+{
+  "Common": {
+    "language": "Language",
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "footerText": "Languix. All rights reserved.",
+    "madeWithLove": "Made with ❤️ by Lavi Rajput"
+  },
+  "HomePage": {
+    "title": "Welcome to the Multi-Language App!",
+    "content": "Languix web application for  testing multi-languages features.",
+    "feature1": "Fast and modern web development",
+    "feature2": "Internationalization made easy",
+    "feature3": "Switch languages instantly",
+    "about": "About",
+    "contact": "Contact",
+    "selectLanguage": "Select Language",
+    "home": "Home"
+  },
+  "AboutPage": {
+    "title": "About This App",
+    "description": "This application demonstrates internationalization (i18n) in Next.js using next-intl.",
+    "feature1": "Supports multiple languages",
+    "feature2": "Easy to add new translations",
+    "feature3": "Built with Next.js and next-intl",
+    "home": "Home"
+  },
+  "ContactPage": {
+    "title": "Contact Us",
+    "description": "Feel free to reach out to us using the information below.",
+    "email": "Email: lavirajput7902\n@gmail.com",
+    "phone": "Phone: +91-7902059656",
+    "address": "Address: Dhampur, India",
+    "selectLanguage": "Select Language",
+    "home": "Home"
+  }
+}

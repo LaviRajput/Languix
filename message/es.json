@@ -1,0 +1,41 @@
+{
+  "Common": {
+    "language": "Idioma",
+    "home": "Inicio",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "footerText": "Languix. Todos los derechos reservados.",
+    "madeWithLove": "Hecho con ❤️ por Lavi Rajput "
+  },
+  "HomePage": {
+    "title": "¡Bienvenido a la aplicación multilingüe!",
+    "content": "Aplicación web Languix para probar funciones multilingües.",
+    "feature1": "Desarrollo web rápido y moderno",
+    "feature2": "Internacionalización simplificada",
+    "feature3": "Cambia de idioma al instante",
+    "feature4": "Caja de función demo 4",
+    "feature5": "Caja de función demo 5",
+    "feature6": "Caja de función demo 6",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "selectLanguage": "Seleccionar idioma",
+    "home": "Inicio"
+  },
+  "AboutPage": {
+    "title": "Acerca de esta aplicación",
+    "description": "Esta aplicación demuestra la internacionalización (i18n) en Next.js usando next-intl.",
+    "feature1": "Compatible con varios idiomas",
+    "feature2": "Fácil de agregar nuevas traducciones",
+    "feature3": "Construido con Next.js y next-intl",
+    "home": "Inicio"
+  },
+  "ContactPage": {
+    "title": "Contáctanos",
+    "description": "No dudes en comunicarte con nosotros usando la información a continuación.",
+    "email": "Correo electrónico: lavirajput7902\n@gmail.com",
+    "phone": "Teléfono: +91-7902059656",
+    "address": "Dirección: Dhampur, India",
+    "selectLanguage": "Seleccionar idioma",
+    "home": "Inicio"
+  }
+}
