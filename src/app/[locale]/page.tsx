@@ -4,7 +4,7 @@ import Link from 'next/link';
 
 
 // Page content is now wrapped by layout, header, and footer. Remove local language switcher and nav.
-
+ 
 export default function HomePage() {
   const t = useTranslations('HomePage');
 
